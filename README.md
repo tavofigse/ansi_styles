@@ -9,7 +9,7 @@
 ## Usage
 
 ```js
-import { styles } from "https://deno.land/x/ansi_styles/mod.ts";
+import { styles } from "https://deno.land/x/ansi_styles@1.0.0/mod.ts";
 
 console.log(`${styles.green.open}Hello world!${styles.green.close}`);
 
